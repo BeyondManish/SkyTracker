@@ -2,7 +2,7 @@
 
 Tracking the PICO HAB from the data received.
 
-## To Run
+## Install requirements
 
 ```bash
 pip install -r requirements.txt
