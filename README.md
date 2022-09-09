@@ -12,8 +12,8 @@ pip install -r requirements.txt
 
 - [x] Build a parser
 - [x] Plot the geolocation on a map
-- [] Refactor the codebase
-- [] Create a flask server and deploy
+- [ ] Refactor the codebase
+- [ ] Create a flask server and deploy
 
 ---
 
